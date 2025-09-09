@@ -1,3 +1,11 @@
+<div align="center">
+
+![Scientific Resources Hub](./images/scientific-tree-header.png)
+
+</div>
+
+---
+
 # 🎓 Scientific Resources Hub
 
 A comprehensive repository for AI research analysis, containing both automated paper discovery tools and extensive manual paper review collections covering 207+ research papers.
