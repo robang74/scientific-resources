@@ -1,6 +1,6 @@
 <div align="center">
 
-![Scientific Resources Hub](./images/scientific-tree-header.png)
+<img src="./images/scientific-tree-header.png" alt="Scientific Resources Hub" width="800" height="800">
 
 </div>
 
