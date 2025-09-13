@@ -1,0 +1,13 @@
+#!/bin/bash
+# Simple wrapper script for docx_splitter.py
+
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Activate virtual environment if it exists
+if [ -d "$SCRIPT_DIR/venv" ]; then
+    source "$SCRIPT_DIR/venv/bin/activate"
+fi
+
+# Run the Python script with all arguments
+python "$SCRIPT_DIR/docx_splitter.py" "$@"
