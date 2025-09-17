@@ -176,16 +176,6 @@ scientific-resources/
 
 CC0-1.0 License - Open for research, educational, and academic use.
 
-## 📊 Repository Impact
-
-- **44 Stars**: Community recognition and value
-- **2 Forks**: Active usage and collaboration
-- **Comprehensive Coverage**: 512 paper reviews spanning multiple AI domains
-- **Educational Value**: Resources for learning and professional development
-- **Research Utility**: Valuable resource for academic and industry research
-
----
-
 <div align="center">
 
 *Comprehensive scientific research repository with extensive manual curation and educational resources*
