@@ -165,6 +165,7 @@ scientific-resources/
 - **Format Consistency**: Follow established naming and organizational conventions
 - **Documentation**: Update README files with new additions and changes
 - **Structure Preservation**: Maintain sequential and thematic organization
+- **Update Process**: Follow the comprehensive guide in `METADATA_UPDATE_PROCESS.md` for adding new reviews
 
 ### Educational Materials
 - **Content Quality**: Ensure educational value and accuracy
