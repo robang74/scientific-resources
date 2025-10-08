@@ -1,6 +1,6 @@
 # 📚 Paper Titles from Reviews 208+ (COMPREHENSIVE FIXED)
 # All patterns handled including 354+ format
-# Successfully extracted: 305 titles
+# Successfully extracted: 312 titles
 # Failed extractions: 0
 
   1. 2BP: 2-Stage Backpropagation
@@ -308,4 +308,10 @@
 303. On the Theoretical Limitations of Embedding-Based Retrieval
 304. Bootstrapping Task Spaces for Self-Improvementֿ
 305. THE ORIGIN OF SELF-ATTENTION: PAIRWISE AFFINITY MATRICES IN FEATURE SELECTION AND THE EMERGENCE OF SELF-ATTENTION
-306. Review 514: Foundation Models for Time Series Analysis- A Tutorial and Survey
+306. Foundation Models for Time Series Analysis- A Tutorial and Survey
+307. Corrector Sampling in Language Models
+308. Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free
+309. Evolution of Concepts in Language Model Pre-Training
+310. Optimizers Qualitatively Alter Solutions And We Should Care
+311. Skip a Layer or Loop it? Test-Time Depth Adaptation for Large Language Models
+312. Beyond the Exploration-Exploitation Trade-Off: A Hidden State Approach for LLM Reasoning in RLVR

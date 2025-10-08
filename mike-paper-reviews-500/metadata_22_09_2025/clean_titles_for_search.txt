@@ -512,3 +512,9 @@
 512. Bootstrapping Task Spaces for Self-Improvementֿ
 513. THE ORIGIN OF SELF-ATTENTION: PAIRWISE AFFINITY MATRICES IN FEATURE SELECTION AND THE EMERGENCE OF SELF-ATTENTION
 514. Foundation Models for Time Series Analysis- A Tutorial and Survey
+515. Corrector Sampling in Language Models
+516. Gated Attention for Large Language Models Non-linearity Sparsity and Attention-Sink-Free
+517. Evolution of Concepts in Language Model Pre-Training
+518. Optimizers Qualitatively Alter Solutions And We Should Care
+519. Skip a Layer or Loop it Test-Time Depth Adaptation for Large Language Models
+520. Beyond the Exploration-Exploitation Trade-Off A Hidden State Approach for LLM Reasoning in RLVR
